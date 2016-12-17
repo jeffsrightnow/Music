@@ -10,6 +10,24 @@
 
 
 <item>
+<title> Maher Zain - Peace Be Upon You (Official Video 2016)     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=pZxFZNRHbZ4</link>
+<thumbnail>https://i.ytimg.com/vi/pZxFZNRHbZ4/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qx9lA5DK3LKKn8DwyUum5sxFenQ</thumbnail>
+</item>
+
+<item>
+<title> Maher Zain - BilThikr (Official Music Video 2016)     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=JqixuxvGDD4?list=PLoagsPg26SY43yt5OXfi9p_O5GdOu3op6</link>
+<thumbnail>https://i.ytimg.com/vi/JqixuxvGDD4/hqdefault.jpg?custom=true&w=120&h=90&jpg444=true&jpgq=90&sp=68&sigh=_Y8Doqydtgf3JGLQnF_b035kP-I</thumbnail>
+</item>
+
+<item>
+<title> Maher Zain  Close To You  Official Music Video     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=Up-Pyph8wbk</link>
+<thumbnail>https://i.ytimg.com/vi/Up-Pyph8wbk/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=leqGUOIQLUPqpOZS8JDcO6pzWPQ</thumbnail>
+</item>
+
+<item>
 <title> Rock Bro! (2016) - Bayangan Gurauan     </title>
 <link>plugin://plugin.video.youtube/play/?video_id=yNNwOPKIrZ0</link>
 <thumbnail>https://pbs.twimg.com/media/CssqtwYVIAAhMwa.jpg</thumbnail>
@@ -52,6 +70,12 @@
 </item>
 
 <item>
+<title> Lambaian Kasih Edora - Ilustrasi - Official Music Video     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=sBcXLIYTNbY</link>
+<thumbnail>https://i.ytimg.com/vi/sBcXLIYTNbY/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Q1Br-fG-_gqn7jX_fT7_9SVpnGA</thumbnail>
+</item>
+
+<item>
 <title> Anuar Zain - Andainya Takdir (Official Music Video HD) </title>
 <link>plugin://plugin.video.youtube/play/?video_id=TXTPjmK95h4&list=PLpyL6hWV2nf9rPaHDxZbBjCokrkfSEqvg</link>
 <thumbnail>http://www.mynewshub.cc/wp-content/uploads/2016/09/anuar.png</thumbnail>
@@ -82,9 +106,21 @@
 </item>
 
 <item>
+<title> Siti Nurhaliza - Menatap Dalam Mimpi (Official Music Video HD) </title>
+<link>plugin://plugin.video.youtube/play/?video_id=SrWHOPDeqsQ?list=PLcZyKF-u2g6n65UXeOzkiuEJDkRCTnNbb</link>
+<thumbnail>https://artwork-cdn.7static.com/static/img/sleeveart/00/034/741/0003474155_200.jpg</thumbnail>
+</item>
+
+<item>
 <title> Siti Nurhaliza feat Whitney Houston - Memories </title>
-<link>plugin://plugin.video.youtube/play/?video_id=Us9OlLkaMgM</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xO9LA39dQgA</link>
 <thumbnail>https://i.ytimg.com/vi/Us9OlLkaMgM/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WXFGjIaJgjYPEJdEf1U-7PDLK6s</thumbnail>
+</item>
+
+<item>
+<title> Siti Nurhaliza - Milikmu Selamanya (Official Music Video HD) </title>
+<link>plugin://plugin.video.youtube/play/?video_id=VEgGoIJxB1Y</link>
+<thumbnail>https://artwork-cdn.7static.com/static/img/sleeveart/00/034/741/0003474155_200.jpg</thumbnail>
 </item>
 
 <item>
@@ -157,6 +193,18 @@
 <title> Yuna - Pulang ft. SonaOne     </title>
 <link>plugin://plugin.video.youtube/play/?video_id=Z-qaYOok2Uc?list=PLvFUgxv-XaMy55LiwAcmqhMm0yHW8M9Z1</link>
 <thumbnail>https://i.ytimg.com/vi/Z-qaYOok2Uc/hqdefault.jpg?custom=true&w=120&h=90&jpg444=true&jpgq=90&sp=68&sigh=nj7J6xgwqbbNiSc0l5k3Y1Kk3hs</thumbnail>
+</item>
+
+<item>
+<title> Dzecko Jika Masih Cinta (Official Music Video) | Lagu Baru 2016     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ttpkacmlfyc?list=PLcZyKF-u2g6n65UXeOzkiuEJDkRCTnNbb</link>
+<thumbnail>https://i.ytimg.com/vi/iQl6v-SDNcQ/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title> Dzecko  Terima Kasih (Official Music Video)  | Lagu Baru 2016     </title>
+<link>plugin://plugin.video.youtube/play/?video_id=OdoItgB2oW8?list=PLcZyKF-u2g6n65UXeOzkiuEJDkRCTnNbb</link>
+<thumbnail>https://i.ytimg.com/vi/iQl6v-SDNcQ/hqdefault.jpg</thumbnail>
 </item>
 
 <item>
@@ -527,7 +575,7 @@
 
 <item>
 <title> Suri Hati Mr Pilot FULL (selamanya Cinta) </title>
-<link>plugin://plugin.video.youtube/play/?video_id=gUFAOG2nuRA&list=RDgUFAOG2nuRA</link>
+<link>plugin://plugin.video.youtube/play/?video_id=u0Rh_BnYoTE?list=PLcZyKF-u2g6n65UXeOzkiuEJDkRCTnNbb</link>
 <thumbnail>https://i.ytimg.com/vi/ZHl6EkERdQk/maxresdefault.jpg</thumbnail>
 </item>
 
